@@ -1,0 +1,15 @@
+# F5 style guidelines for words to avoid
+
+extends: existence
+message: "The word %s' is anthropomorphic. If possible, use a different word if you're referring to a product."
+link: https://docs.f5net.com/pages/viewpage.action?spaceKey=GSASKF5&title=F5+Technical+Style+Guide
+ignorecase: true
+code: false
+level: error
+tokens:
+  - decides
+  - knows
+  - listens
+  - hears
+  - sees
+  - walks

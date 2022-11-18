@@ -1,0 +1,6 @@
+extends: spelling
+message: "Spelling error: '%s'."
+level: error
+code: false
+ignore: /styles/f5/vocab.txt
+ignorecase: true
